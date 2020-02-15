@@ -1,0 +1,15 @@
+Mariana Rivera Torres
+Data Carpentry Course
+
+Commands learned so far include: 
+
+ls 
+ls -l
+ls -la
+pwd
+
+man ls
+cd 
+mkdir
+
+
